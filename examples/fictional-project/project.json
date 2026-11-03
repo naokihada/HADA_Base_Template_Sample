@@ -1,0 +1,10 @@
+{
+  "fictional_sample": true,
+  "project_name": "Willow Notes",
+  "purpose": "Keep a small, source-linked collection of household plant observations.",
+  "status": "example only",
+  "template": {
+    "id": "hada-base-template",
+    "version": "0.1.0"
+  }
+}
